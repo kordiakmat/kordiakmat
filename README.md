@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ----------
 
 <h2>I'm currently working on</h2>
-<p>building <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>🔭 Estate agency website</b></a> and working up on polishing my React, MongoDB and Nodejs skills</p> Live
+<p>building <a href="https://github.com/kordiakmat/estate-agency"><b>🔭 Estate agency website</b></a> and working up on polishing my React, MongoDB and Nodejs skills</p>
 <h2>Things I code with</h2>
 <p>
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
