@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 ----------
 
-<h3>I'm currently working on</h3>
+<h2>I'm currently working on</h2>
 <p>building <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>🔭 Estate agency website</b></a> and working up on polishing my React, MongoDB and Nodejs skills</p> Live
-<h3>Things I code with</h3>
+<h2>Things I code with</h2>
 <p>
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -43,10 +43,10 @@ Here are some ideas to get you started:
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
-<h3>Things I'm learning now</h3>
+<h2>Things I'm learning now</h2>
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<h3>My projects</h3>
+<h2>My projects</h2>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -99,6 +99,6 @@ Here are some ideas to get you started:
 
 --------
 
-<h3>Things I design with</h3>
+<h2>Things I design with</h2>
 <img alt="MongoDB" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white" /> <img alt="Nodejs" src="https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white" />
