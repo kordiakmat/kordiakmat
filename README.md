@@ -44,8 +44,10 @@ Here are some ideas to get you started:
 </p>
 
 <h2>Things I'm learning now</h2>
+<p>
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
 <h2>My projects</h2>
 <table>
   <thead align="center">
@@ -100,5 +102,7 @@ Here are some ideas to get you started:
 --------
 
 <h2>Things I design with</h2>
+<p>
 <img alt="MongoDB" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white" /> <img alt="Nodejs" src="https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white" />
+	</p>
