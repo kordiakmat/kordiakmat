@@ -58,13 +58,17 @@ Here are some ideas to get you started:
     </tr>
   </thead>
   <tbody>
-    <tr>  <td><b>Work in progress</b>. An application for a real estate agency that allows you to search, add and modify offers. .</td>
-      <!-- <td align="center">
-      <a href="www.kordiak.pl">click</a>
+    <tr>  <td><b>Work in progress</b>. An application for a real estate agency that allows you to search, add and modify offers. Soon should be added express and mongoose.</td>
       </td>
+       <td align="center">
+      <a href="https://github.com/kordiakmat/estate-agency">click</a>
+      </td>
+      <td align="center"><a href="https://estate-b30a1.web.app">click</a></td>
+      <!-- <td align="center">
+      <
       <td align="center"><a href="www.kordiak.pl">click</a></td> -->
     </tr> <tr>
-	    <td><b>Work in progress</b>. A Single Page Application for searching and publishing reviews of a specific place. After logging in, the user can <b>add, edit and delete</b> a review. .</td>
+	    <td><b>Work in progress</b>. A Single Page Application for searching and publishing reviews of a specific place. After logging in, the user can <b>add, edit and delete</b> a review. Soon should be added express and mongoose</td>
      <td align="center">
       <a href="https://github.com/kordiakmat/check-review">click</a>
       </td>
@@ -103,6 +107,6 @@ Here are some ideas to get you started:
 
 <h2>Things I design with</h2>
 <p>
-<img alt="MongoDB" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white" /> <img alt="Nodejs" src="https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white" />
+<img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white" /> <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white" />
 	</p>
