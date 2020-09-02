@@ -99,6 +99,12 @@ Here are some ideas to get you started:
       <a href="https://github.com/kordiakmat/shopper">click</a>
       </td>
       <td align="center"><a href="https://shopper-b5ca4.web.app/">click</a></td>
+    </tr><tr>
+				    <td>Simple landing page related to business training.</td>
+     <td align="center">
+      <a href="https://github.com/kordiakmat/bazaekspertow">click</a>
+      </td>
+      <td align="center"><a href="https://kordiakmat.github.io/bazaekspertow/">click</a></td>
     </tr>
   </tbody>
 </table>
