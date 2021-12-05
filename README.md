@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1>👋 Hey, nice to see you.</h1>
 
 <!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
-<p>Welcome to my page! </br> I'm <b>Mateusz</b>, Front-end Development passionate living in <img src="https://image.flaticon.com/icons/svg/321/321255.svg" width="13"/>  <b>Poznań, Poland</b></p>
+<!--<p>Welcome to my page! </br> I'm <b>Mateusz</b>, Front-end Development passionate living in <img src="https://image.flaticon.com/icons/svg/321/321255.svg" width="13"/>  <b>Poznań, Poland</b></p>-->
 
 
 ----------
